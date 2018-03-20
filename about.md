@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: 파이썬을 이용한 시뮬레이션 모델링
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+파이썬 언어는 그 호환성이 타의 추종을 불허합니다. 시뮬레이션, 모델링 분야에서도 이 기류는 마찬가지인데요, 정통 소프트웨어(Anylogic, Powersim, Vensim, Simio 등)들에서도 점점 파이썬 언어에 대한 의존도가 높아지고 있습니다. 본 블로그는 이 분야의 연구자(?)로서 공부 중인 다양한 활동들을 기록하기 위해 만들어졌습니다.

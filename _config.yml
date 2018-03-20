@@ -17,8 +17,8 @@ title: simulation modeling studies with python
 email: yuven.cho@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   simulation, modeling, optimization, data analytics, data visualization, etc.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: drakane
 github_username:  yuvenious
 

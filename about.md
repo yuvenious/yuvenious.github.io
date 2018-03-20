@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 파이썬을 이용한 시뮬레이션 모델링
+title: About
 permalink: /about/
 ---
 

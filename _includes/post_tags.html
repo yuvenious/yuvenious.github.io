@@ -1,0 +1,12 @@
+<img src="http://www.free-icons-download.net/images/tag-icon-23340.png" alt="Tags: " class="tag-img" style="width: 20px;"/>
+<div class="post-tags">
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <a href="/tags/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+</div>
+<br/>
